@@ -11,7 +11,7 @@
   width: 220px;
   background-color: #fff;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-  border: 1px solid red;
+  border: 3px solid rgb(1, 0, 80);
 }
 
 .avatar {
